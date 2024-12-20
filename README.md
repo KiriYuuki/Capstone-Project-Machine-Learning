@@ -1,5 +1,4 @@
 # Capstone-Project-Machine-Learning
-# Capstone-Project-Machine-Learning
 # Introduction
 
 This problem was originally proposed by Prof. I-Cheng Yeh, Department of Information Management Chung-Hua University, Hsin Chu, Taiwan in 2007. It is related to [his research](https://www.researchgate.net/publication/222447231_Modeling_of_Strength_of_High-Performance_Concrete_Using_Artificial_Neural_Networks_Cement_and_Concrete_research_2812_1797-1808) in 1998 about how to predict compression strength in a concrete structure.
